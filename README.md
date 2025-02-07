@@ -1,1 +1,1 @@
-Hostel-Booking-Management
+Hostel-Booking-Management app
